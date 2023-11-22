@@ -1,0 +1,48 @@
+<!doctype>
+<html>
+<head> <title> EVM </TITLE>
+
+
+
+
+
+
+
+
+</head>
+
+<body background="bg.jpg">
+<CENTER>
+<h1 style="font-size:400%;color:yellow;font-family:Edwardian Script ITC"> EVM </h1>
+
+
+
+<p style="font-size:250%;color:white;font-family:Edwardian Script ITC">EVM is a electronic voting machine </p>
+<p style="font-size:250%;color:white;font-family:Edwardian Script ITC">it is used in time of elections to vote candidates </P>
+<P style="font-size:250%;color:white;font-family:Edwardian Script ITC"> there are maximum 64 candidates in a evm</p>
+
+<br>
+
+<br>
+<br>
+<br>
+<a href="FORM.HTML" target="_blank" title="evm.com"> <br>
+<P style="font-size:250%;color:white;font-family:Lucida Fax"> FOR ORDER AN EVM CLICK ON BLUE LINE BELOW TEXT</P>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<P style="font-size:299%;color:blue;font-family:Lucida Fax"> thank you guys</P>
+
+
+</body>
+</html>
